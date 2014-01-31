@@ -18,6 +18,7 @@ public class TestGit {
     public static void main(String[] args) 
     {
         System.out.println("bonjours");
+        System.out.println("bonjour prends prends pas de S Dude ...");
     }
     
 }
